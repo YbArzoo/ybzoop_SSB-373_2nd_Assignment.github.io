@@ -1,0 +1,71 @@
+.h1_css{
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 236, 221);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 50px;
+
+}
+.h2_no{
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 236, 221);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 25px;
+}
+.si{
+    background-color: rgb(246, 214, 173);
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 20px;
+}
+.tag{
+    background-color: rgb(246, 214, 173);
+    color: rgb(7, 7, 7);
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 20px;
+}
+.des{
+    background-color: rgb(246, 214, 173);
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 20px;
+}
+.ex{
+    background-color: rgb(246, 214, 173);
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 20px;
+}
+.number{
+    background-color: rgb(246, 214, 173);
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 15px;
+}
+.tag1{
+    background-color: rgb(249, 192, 192);
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: rgb(7, 7, 7);
+    text-align: center;
+    font-size: 19px;
+}
+.des1{
+    background-color: rgb(204, 246, 200);
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    font-style: italic;
+    
+}
+.ex1{
+    background-color: rgb(250, 252, 194);
+    font-family: 'Comic Sans MS';
+    text-decoration: solid;
+}
